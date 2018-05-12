@@ -1,0 +1,12 @@
+name: exercise-5
+title: exercise-5
+username:
+account: cforbes1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 341647
+bundleId: 1369789
+url: https://cforbes1.shinyapps.io/exercise-5/
+when: 1526080543.32963
+asMultiple: FALSE
+asStatic: FALSE
